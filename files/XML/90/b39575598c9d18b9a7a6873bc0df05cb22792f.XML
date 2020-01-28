@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>AGROCALIDAD</razonSocial>
+    <nombreComercial>AGENCIA ECUATORIANA DE ASEGURAMIENTO DE LA CALIDAD DEL AGRO</nombreComercial>
+    <ruc>1768105720001</ruc>
+    <claveAcceso>1004201501176810572000120010010000021310000000614</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000002131</secuencial>
+    <dirMatriz>AV. AMAZONAS S/N INTERSECCION AV. ELOY ALFARO DIAGONAL A LA ESTACION DE SERVICIOS PETROCOMERCIAL ED. MAGAP PISO 9</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>10/04/2015</fechaEmision>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MODERNA ALIMENTOS S.A.</razonSocialComprador>
+    <identificacionComprador>1790049795001</identificacionComprador>
+    <totalSinImpuestos>78.72</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>78.72</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>78.72</importeTotal>
+    <moneda>DOLAR</moneda>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>446</codigoPrincipal>
+      <descripcion>Por la expedicion del documento Fitosanitario con los requisitos para importacion de las primeras 100TM de : Cereales legumisosas oleaginosas;Productos de la molineria ;Malta; Almidon; fécula inulina;Gluten de trigo;pipas soya tostada; el importador paga</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>71.720</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>71.72</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>71.72</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>394</codigoPrincipal>
+      <descripcion>3) POR LA EXTENSION DEL CERTIFICADO FITOSANITARIO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>4.000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>4</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>447</codigoPrincipal>
+      <descripcion>PERMISO POR producto y por TM adicional USD 0.10</descripcion>
+      <cantidad>30</cantidad>
+      <precioUnitario>0.100</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>3</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">SAN GABRIEL OE7-89 Y VALDERRAMA</campoAdicional>
+    <campoAdicional nombre="Teléfono">(02) 298-5100</campoAdicional>
+    <campoAdicional nombre="Email">cguerrero@moderna.com.ec ; khernandez@moderna.com.ec</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature694431">
+<ds:SignedInfo Id="Signature-SignedInfo832467">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID823901" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature694431-SignedProperties297163">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Om5i1ByY0NqXZx5qdJu7NMVriNQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1845408">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>gIhyg80S9RuQozKTW5DkcIDz/LY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-584854" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6Gv20ZRMfzOHWeNBFdT6BjzSe+8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue118327">
+aKJd6CxXzieZAiwaqVdeCafsc8B8D/e0hVxe4rkrxTdcXveeqmaL0P9x7+P+l5LQAUbkZ2LXRKw+
+UIEG14l+rhbezOCZtbZBR3FOyokMqEI+lF2UMJLDYahBuku/kwWG//iTtfjsE91HZz4a3ITMhzVt
+WNCp8tU7hfDfdllqActl92pq4FL1sS8QnLITSf8o5zDew0kI7zBTg6giN9tB3skT598IAUnOt9rs
+uP4W0JZj3guDGU8PCYyzuXcj7ARD7MhLHdtYOMp7/QTB0tanii500bnwh85M4j68EaKoYuO6i7aK
+KXqsF/p8ubxofWje4Skw3y8JJRL2lUims4nlig==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1845408">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKgzCCCGugAwIBAgIETkRcGTANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE1MDMyNzE1Mzc0OFoXDTE2MDMyNzE2MDc0
+OFowgbQxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE4MBEGA1UEBRMKMDAwMDExMTk5NjAjBgNVBAMTHE1BUklBIE1BREdBTEVO
+QSBQQVVDQVIgUk9KQVMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7fN1Xpvoz2xLa
+NRUc0+Atf8lZQd0ty8nzzNdnlOjCG6Bjg/uDcKfpNJSEZti3igtSt6kkKsYoc1djadlUFbssc9XQ
+LyE44UhbptcB5fIqlWgePTuCO18/9Aryodv9BJrXhRpAMSRME2BpwvdS1jakvqHRYSecG8THQrlQ
+1AYXtlIPmO8B4Z5rtMNez3vS7bMSWDdaX/v8asHeZbpjE92sBV1xgOTAjbGuvQ+b8eTCgCzZZemu
+h61Rob9yinFO8QYwFMNnhnePZIw+uSnYWO3hGbbtXdM4v1G8lDZtKUsO8qcTu9eReYZNnGUP2+7u
+s79X7qSB7BIR28H84nCkyHQHAgMBAAGjggWsMIIFqDALBgNVHQ8EBAMCB4AwagYDVR0gBGMwYTBf
+BgsrBgEEAYKoOwIDATBQME4GCCsGAQUFBwIBFkJodHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRp
+Y2EtY2VydGlmaWNhZG8vZnVuY2lvbmFyaW8tcHVibGljby5wZGYwgZEGCCsGAQUFBwEBBIGEMIGB
+MD4GCCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0
+dXMvb2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGlj
+d2ViL3N0YXR1cy9vY3NwMBoGCisGAQQBgqg7AwEEDBMKMTcwODE0MTkxNDAfBgorBgEEAYKoOwMC
+BBETD01BUklBIE1BREdBTEVOQTAWBgorBgEEAYKoOwMDBAgTBlBBVUNBUjAVBgorBgEEAYKoOwME
+BAcTBVJPSkFTMCIGCisGAQQBgqg7AwUEFBMSVEVDTklDTyBGSU5BTkNJRVJPMFcGCisGAQQBgqg7
+AwYESRNHQUdFTkNJQSBFQ1VBVE9SSUFOQSBERSBBU0VHVVJBTUlFTlRPIERFIExBIENBTElEQUQg
+REVMIEFHUk8gQUdST0NBTElEQUQwKQYKKwYBBAGCqDsDBwQbExlBViBBTUFaT05BUyBZIEVMT1kg
+QUxGQVJPMBkGCisGAQQBgqg7AwgECxMJMDIyNTQzMzE5MBUGCisGAQQBgqg7AwkEBxMFUXVpdG8w
+FwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMB0GCisGAQQBgqg7AwsEDxMNMTc2ODEwNTcyMDAwMTBX
+BgorBgEEAYKoOwMKBEkTR0FHRU5DSUEgRUNVQVRPUklBTkEgREUgQVNFR1VSQU1JRU5UTyBERSBM
+QSBDQUxJREFEIERFTCBBR1JPIEFHUk9DQUxJREFEMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUt
+QVJDSElWTzAqBgNVHREEIzAhgR9tYXJpYS5wYXVjYXJAYWdyb2NhbGlkYWQuZ29iLmVjMIIB3wYD
+VR0fBIIB1jCCAdIwggHOoIIByqCCAcaGgdVsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249
+Q1JMMjE2LGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91
+PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxv
+PUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRp
+b25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxl
+Y29tYi5jcmykgbUwgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBF
+Q1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04t
+RUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNV
+QURPUjEPMA0GA1UEAxMGQ1JMMjE2MCsGA1UdEAQkMCKADzIwMTUwMzI3MTUzNzQ4WoEPMjAxNjAz
+MjcxNjA3NDhaMB8GA1UdIwQYMBaAFBj58PvmMhyZZjkqyouyaX1JJ7/OMB0GA1UdDgQWBBSHnkNs
+pGOnGDZq+4pf9TqAWW5YbTAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0G
+CSqGSIb3DQEBCwUAA4ICAQB1NEdNzziuoPPK0RL076QK6i1epgTfCa4gMmvMAONIbW306nbBQsWa
+A3b6tiueGX5CKR9XYOEKgUw7Av8nHJeyvWWiYfwsCzl/WV7szHyESU/RAT8O+JIDpwZp9Cl0jG0o
+Sba8pVsLFpUmYJuj8IVM5xXC0rfL0AP+PoKePQZrjvY4jodrPF4u9TZ+LqnnUmpEJi3lz1Y2QCf9
+Y4kN5IcHGEyHIyYVn/YT1C/5I7z92VOK9SHzrTj0GZG4iKvKq8tgVrEdEgZeeOdhBi9aiTspXOgr
+QNQF9I95u+BgHsjIFaq0dL7syOpooPc6G0TSPQ2qvp5D/lw6kRGA/W5J+cVUFPtFZqcOKtz9MPBQ
+agbOeQoAaulQWbE/LRys6UxdwEEyozj07th4+fjeGpI1ZnsI6LZJ6O6rNCAVFB8UiSCqryj5wtyw
+a9WAzLho4x7YtgFbiSjLod60Y8d8+SMjTE9jaxGt/szpT7kjglJxTbIDKbvfDYWLSyvZg78tTMvK
+yZr29ED67nw3bVIIsDSCUJmWExya6uKfIM+fdqAfoV+CUFc8fo3KPg9gCOnVt/9VEepw+Mmb8WJp
+V4nIaiTYLgl0x0S7nlAbPZExhVwf6F0v0t2d83+643cNpfgcUB+TQOPrRBD7DrO2MEeSheFm97vX
+oANZKbYp//YOFNE9O0oLFQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+u3zdV6b6M9sS2jUVHNPgLX/JWUHdLcvJ88zXZ5TowhugY4P7g3Cn6TSUhGbYt4oLUrepJCrGKHNX
+Y2nZVBW7LHPV0C8hOOFIW6bXAeXyKpVoHj07gjtfP/QK8qHb/QSa14UaQDEkTBNgacL3UtY2pL6h
+0WEnnBvEx0K5UNQGF7ZSD5jvAeGea7TDXs970u2zElg3Wl/7/GrB3mW6YxPdrAVdcYDkwI2xrr0P
+m/HkwoAs2WXproetUaG/copxTvEGMBTDZ4Z3j2SMPrkp2Fjt4Rm27V3TOL9RvJQ2bSlLDvKnE7vX
+kXmGTZxlD9vu7rO/V+6kgewSEdvB/OJwpMh0Bw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature694431-Object918562"><etsi:QualifyingProperties Target="#Signature694431"><etsi:SignedProperties Id="Signature694431-SignedProperties297163"><etsi:SignedSignatureProperties><etsi:SigningTime>2015-04-10T12:40:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>eQB2ldgV5juXckPxAsB8dfFBhFU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1313102873</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-584854"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

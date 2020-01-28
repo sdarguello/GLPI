@@ -1,0 +1,4244 @@
+2019-12-16 17:33:04
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:33:04
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:33:04
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:33:04
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:33:04
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:33:04
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:33:04
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:33:04
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:39:19
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:39:19
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:39:19
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:39:19
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:39:19
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:39:19
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:39:19
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:39:19
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:40:38
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:40:38
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:40:38
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:40:38
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:40:38
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:40:38
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:40:38
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:40:38
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:47:51
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:47:51
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:47:51
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:47:51
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:47:51
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:47:51
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:47:51
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:47:51
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 17:48:03
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-16 17:57:13
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-16 17:57:17
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-16 18:06:51
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 18:06:51
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 18:06:51
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 18:06:51
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 18:06:51
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 18:06:51
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 18:06:51
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-16 18:06:51
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:22:46
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:22:46
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:22:46
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:22:46
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:22:46
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:22:46
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:22:46
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:22:46
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+Test
+2019-12-17 14:50:29
+Deprecated function(8192): __autoload() is deprecated, use spl_autoload_register() instead
+Backtrace :
+C:\xampp\htdocs\glpi\lib\phpcas\CAS.php:245		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\lib\phpcas\CAS.php:245		require_once()
+C:\xampp\htdocs\glpi\inc\config.class.php:1302		include()
+C:\xampp\htdocs\glpi\inc\config.class.php:1270		Config::showLibrariesInformation()
+C:\xampp\htdocs\glpi\inc\config.class.php:1498		Config->showSystemInformations()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 14:55:36
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:55:36
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:55:36
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:55:36
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:55:36
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:55:36
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:55:36
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 14:55:36
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:21:33
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:21:33
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:21:33
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:21:33
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:21:33
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:21:33
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:21:33
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:21:33
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:29:07
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:29:07
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:29:07
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:29:07
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:29:07
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:29:07
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:29:07
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:29:07
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:33:40
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:33:40
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:33:40
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:33:40
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:33:40
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:33:40
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:33:40
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 15:33:40
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 16:09:33
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\stat.class.php:1523		each()
+C:\xampp\htdocs\glpi\front\stat.php:40		Stat::title()
+
+2019-12-17 16:09:36
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\stat.class.php:1523		each()
+C:\xampp\htdocs\glpi\front\stat.global.php:56		Stat::title()
+
+2019-12-17 16:11:30
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\report.class.php:104		each()
+C:\xampp\htdocs\glpi\front\report.php:43		Report::title()
+
+2019-12-17 16:11:32
+Warning(2): include(../plugins/webnotifications/front/notifica.php): failed to open stream: No such file or directory
+Backtrace :
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		include()
+C:\xampp\htdocs\glpi\plugins\formcreator\front\formlist.php:24		Html::footer()
+
+2019-12-17 16:11:32
+Warning(2): include(): Failed opening '../plugins/webnotifications/front/notifica.php' for inclusion (include_path='C:\xampp\php\PEAR')
+Backtrace :
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		include()
+C:\xampp\htdocs\glpi\plugins\formcreator\front\formlist.php:24		Html::footer()
+
+2019-12-17 16:12:22
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:22
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:22
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:22
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:22
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:22
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:22
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:22
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:51
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:51
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:51
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:51
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:51
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:51
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:51
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:51
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:12:51
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 16:21:00
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+Test
+2019-12-17 16:48:24
+Deprecated function(8192): __autoload() is deprecated, use spl_autoload_register() instead
+Backtrace :
+C:\xampp\htdocs\glpi\lib\phpcas\CAS.php:245		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\lib\phpcas\CAS.php:245		require_once()
+C:\xampp\htdocs\glpi\inc\config.class.php:1302		include()
+C:\xampp\htdocs\glpi\inc\config.class.php:1270		Config::showLibrariesInformation()
+C:\xampp\htdocs\glpi\inc\config.class.php:1498		Config->showSystemInformations()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:00:09
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:00:09
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:00:09
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:00:09
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:00:09
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:00:09
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:00:09
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:00:09
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:03:20
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:03:20
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:03:20
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:03:20
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:03:20
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:03:20
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:03:20
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:03:20
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:04:08
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-17 17:04:16
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-17 17:05:02
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:05:02
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:05:02
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:05:02
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:05:02
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:05:02
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:05:02
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:05:02
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:07:03
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:07:03
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:07:03
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:07:03
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:07:03
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:07:03
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:07:03
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:07:03
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:07:40
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-17 17:07:42
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2019-12-17 17:07:46
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2019-12-17 17:07:49
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2019-12-17 17:07:50
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2019-12-17 17:08:24
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2019-12-17 17:12:01
+Warning(2): include(../plugins/webnotifications/front/notifica.php): failed to open stream: No such file or directory
+Backtrace :
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		include()
+C:\xampp\htdocs\glpi\plugins\formcreator\front\formlist.php:24		Html::footer()
+
+2019-12-17 17:12:01
+Warning(2): include(): Failed opening '../plugins/webnotifications/front/notifica.php' for inclusion (include_path='C:\xampp\php\PEAR')
+Backtrace :
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		include()
+C:\xampp\htdocs\glpi\plugins\formcreator\front\formlist.php:24		Html::footer()
+
+2019-12-17 17:13:00
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\report.class.php:104		each()
+C:\xampp\htdocs\glpi\front\report.php:43		Report::title()
+
+2019-12-17 17:13:04
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\report.class.php:104		each()
+C:\xampp\htdocs\glpi\front\report.default.php:40		Report::title()
+
+2019-12-17 17:13:16
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\report.class.php:104		each()
+C:\xampp\htdocs\glpi\front\report.state.php:46		Report::title()
+
+2019-12-17 17:15:18
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-17 17:18:31
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:18:51
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:20:26
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-17 17:21:20
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:33:27
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:33:27
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:33:27
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:33:27
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:33:27
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:33:27
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:33:27
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:33:27
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:35:07
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:35:07
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:35:07
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:35:07
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:35:07
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:35:07
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:35:07
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:35:07
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:35:33
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1470		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:35:33
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1470		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:35:33
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1470		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:35:33
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1470		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:35:33
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1470		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:35:33
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1470		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:35:33
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1470		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:35:33
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1470		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 17:38:40
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:38:40
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:38:40
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:38:40
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:38:40
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:38:40
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:38:40
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:38:40
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:53:26
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:53:26
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:53:26
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:53:26
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:53:26
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:53:26
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:53:26
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 17:53:26
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:37:46
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:37:46
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:37:46
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:37:46
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:37:46
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:37:46
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:37:46
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:37:46
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:46:13
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:46:13
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:46:13
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:46:13
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:46:13
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:46:13
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:46:13
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:46:13
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:48:37
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:48:37
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:48:37
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:48:37
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:48:37
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:48:37
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:48:37
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 18:48:37
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:02:29
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2019-12-17 19:43:23
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:43:23
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:43:23
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:43:23
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:43:23
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:43:23
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:43:23
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:43:23
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:46:03
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:46:03
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:46:03
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:46:03
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:46:03
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:46:03
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:46:03
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 19:46:03
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 21:15:45
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 21:15:45
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 21:15:45
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 21:15:45
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 21:15:45
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 21:15:45
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 21:15:45
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 21:15:45
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 22:19:55
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 22:19:55
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 22:19:55
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 22:19:55
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 22:19:55
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 22:19:55
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 22:19:55
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-17 22:19:55
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 15:18:01
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 15:18:01
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 15:18:01
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 15:18:01
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 15:18:01
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 15:18:01
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 15:18:01
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 15:18:01
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 16:09:57
+Warning(2): include(../plugins/webnotifications/front/notifica.php): failed to open stream: No such file or directory
+Backtrace :
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		include()
+C:\xampp\htdocs\glpi\plugins\formcreator\front\formlist.php:24		Html::footer()
+
+2019-12-18 16:09:57
+Warning(2): include(): Failed opening '../plugins/webnotifications/front/notifica.php' for inclusion (include_path='C:\xampp\php\PEAR')
+Backtrace :
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		include()
+C:\xampp\htdocs\glpi\plugins\formcreator\front\formlist.php:24		Html::footer()
+
+2019-12-18 16:10:37
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-18 16:11:25
+Warning(2): include(../plugins/webnotifications/front/notifica.php): failed to open stream: No such file or directory
+Backtrace :
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		include()
+C:\xampp\htdocs\glpi\plugins\formcreator\front\formlist.php:24		Html::footer()
+
+2019-12-18 16:11:25
+Warning(2): include(): Failed opening '../plugins/webnotifications/front/notifica.php' for inclusion (include_path='C:\xampp\php\PEAR')
+Backtrace :
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\html.class.php:2409		include()
+C:\xampp\htdocs\glpi\plugins\formcreator\front\formlist.php:24		Html::footer()
+
+2019-12-18 16:26:40
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-18 16:47:24
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 16:47:24
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 16:47:24
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 16:47:24
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 16:47:24
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 16:47:24
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 16:47:24
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 16:47:24
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 16:47:28
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-18 16:48:12
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2019-12-18 16:49:07
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-18 16:49:15
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-18 17:14:05
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:14:05
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:14:05
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:14:05
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:14:05
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:14:05
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:14:05
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:14:05
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:53:57
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:53:57
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:53:57
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:53:57
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:53:57
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:53:57
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:53:57
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:53:57
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 17:54:07
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-18 17:54:11
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2019-12-18 17:54:18
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2019-12-18 18:11:30
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 18:11:30
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 18:11:30
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 18:11:30
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 18:11:30
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 18:11:30
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 18:11:31
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 18:11:31
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 19:38:41
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 19:38:41
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 19:38:41
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 19:38:41
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 19:38:41
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 19:38:41
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 19:38:41
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 19:38:41
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-18 19:46:17
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-18 20:13:49
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2019-12-18 20:14:22
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:4456		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\ticket.form.php:187		Ticket->showForm()
+
+2019-12-23 15:38:46
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-23 15:38:46
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-23 15:38:46
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-23 15:38:46
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-23 15:38:46
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-23 15:38:46
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-23 15:38:46
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2019-12-23 15:38:46
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:19:00
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:19:00
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:19:00
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:19:00
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:19:00
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:19:00
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:19:00
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:19:00
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:27:46
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:27:46
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:27:46
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:27:46
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:27:46
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:27:46
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:27:46
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-07 10:27:46
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-13 08:52:37
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-13 08:52:37
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-13 08:52:37
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-13 08:52:37
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-13 08:52:37
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-13 08:52:37
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-13 08:52:37
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-13 08:52:37
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 09:58:52
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 09:58:52
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 09:58:52
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 09:58:52
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 09:58:52
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 09:58:52
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 09:58:52
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 09:58:52
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:00:04
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:00:04
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:00:04
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:00:04
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:00:04
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:00:04
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:00:04
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:00:04
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:04:23
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:04:23
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:04:23
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:04:23
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:04:23
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:04:23
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:04:23
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 10:04:23
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-14 11:36:47
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-20 09:24:34
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 09:24:34
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 09:24:34
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 09:24:34
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 09:24:34
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 09:24:34
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 09:24:34
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 09:24:34
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 14:01:47
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 14:01:47
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 14:01:47
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 14:01:47
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 14:01:47
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 14:01:47
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 14:01:47
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-20 14:01:47
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 10:12:49
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 10:18:01
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 10:18:01
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 10:18:01
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 10:18:01
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 10:18:01
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 10:18:01
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 10:18:01
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 10:18:01
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 10:20:41
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 10:22:29
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 10:22:47
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 10:23:53
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 10:24:34
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 10:24:45
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 10:25:19
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 11:01:12
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 11:01:18
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 11:01:42
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 11:03:00
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 11:03:19
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 11:03:26
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 11:05:15
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 11:05:18
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 11:05:35
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 11:06:21
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 11:06:54
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 11:07:13
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 11:33:41
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 11:57:32
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 11:57:47
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 11:59:26
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:00:47
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:01:08
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 12:04:54
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:05:33
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:07:37
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:08:26
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:18:09
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:18:39
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:22:07
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:22:44
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:23:13
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:23:28
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:23:37
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:23:48
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 12:33:20
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 12:33:45
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:33:58
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 12:34:42
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:44:11
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:44:26
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 12:44:45
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 12:47:10
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:48:29
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:48:38
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 12:50:17
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 12:50:30
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 13:26:13
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 14:33:22
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 14:33:58
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 14:34:13
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 14:37:45
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 14:38:01
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 14:39:31
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 14:39:53
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 14:40:23
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 14:42:40
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 14:42:49
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 14:43:30
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 14:44:00
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-21 14:47:36
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-21 14:53:04
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 14:53:04
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 14:53:04
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 14:53:04
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 14:53:04
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 14:53:04
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 14:53:04
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 14:53:04
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 14:53:55
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-21 14:54:00
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-21 14:54:12
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-21 14:54:28
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-21 14:55:25
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-21 14:56:18
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-21 14:57:05
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:259		CommonGLPI::displayStandardTab()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-21 15:27:01
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 15:27:01
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 15:27:01
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 15:27:01
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 15:27:01
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 15:27:01
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 15:27:01
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 15:27:01
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-21 15:27:10
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-22 09:01:06
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:01:06
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:01:06
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:01:06
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:01:06
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:01:06
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:01:06
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:01:06
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:01:15
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\helpdesk.public.php:90		Ticket->showFormHelpdesk()
+
+2020-01-22 09:01:28
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\ticket.class.php:3434		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\front\tracking.injector.php:100		Ticket->showFormHelpdesk()
+
+2020-01-22 09:13:18
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:13:18
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:13:18
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:13:18
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:13:18
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:13:18
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:13:18
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:13:18
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-22 09:31:36
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-22 09:31:36
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-22 09:31:36
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-22 09:31:36
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-22 09:31:36
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-22 09:31:36
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-22 09:31:36
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-22 09:31:36
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\config.class.php:1476		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Config::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-22 10:18:55
+Notice(8): A non well formed numeric value encountered
+Backtrace :
+C:\xampp\htdocs\glpi\inc\toolbox.class.php:1824		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\document.class.php:380		Toolbox::return_bytes_from_ini_vars()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:614		Document::getMaxUploadSize()
+C:\xampp\htdocs\glpi\inc\document_item.class.php:217		Document_Item::showForItem()
+C:\xampp\htdocs\glpi\inc\commonglpi.class.php:284		Document_Item::displayTabContentForItem()
+C:\xampp\htdocs\glpi\ajax\common.tabs.php:71		CommonGLPI::displayStandardTab()
+
+2020-01-22 11:08:29
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\stat.class.php:1523		each()
+C:\xampp\htdocs\glpi\front\stat.php:40		Stat::title()
+
+2020-01-22 11:08:31
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\stat.class.php:1523		each()
+C:\xampp\htdocs\glpi\front\stat.php:40		Stat::title()
+
+2020-01-22 11:08:34
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\stat.class.php:1523		each()
+C:\xampp\htdocs\glpi\front\stat.global.php:56		Stat::title()
+
+2020-01-22 11:09:23
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\stat.class.php:1523		each()
+C:\xampp\htdocs\glpi\front\stat.php:40		Stat::title()
+
+2020-01-22 11:09:25
+Deprecated function(8192): The each() function is deprecated. This message will be suppressed on further calls
+Backtrace :
+C:\xampp\htdocs\glpi\inc\stat.class.php:1523		each()
+C:\xampp\htdocs\glpi\front\stat.global.php:56		Stat::title()
+
+2020-01-24 10:52:06
+Notice(8): Undefined index: duedatecritical_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-24 10:52:06
+Notice(8): Undefined index: duedatecritical_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-24 10:52:06
+Notice(8): Undefined index: duedatecritical_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-24 10:52:06
+Notice(8): Undefined index: duedateok_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-24 10:52:06
+Notice(8): Undefined index: duedatewarning_color
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-24 10:52:06
+Notice(8): Undefined index: duedatewarning_less
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-24 10:52:06
+Notice(8): Undefined index: duedatewarning_unit
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+
+2020-01-24 10:52:06
+Notice(8): Undefined index: notification_to_myself
+Backtrace :
+C:\xampp\htdocs\glpi\inc\user.class.php:141		Toolbox::userErrorHandlerNormal()
+C:\xampp\htdocs\glpi\inc\session.class.php:112		User->computePreferences()
+C:\xampp\htdocs\glpi\inc\auth.class.php:690		Session::init()
+C:\xampp\htdocs\glpi\login.php:72		Auth->Login()
+

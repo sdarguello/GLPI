@@ -1,0 +1,16 @@
+
+INICIA DESCARGA:19/03/2018 8:42:33
+20180319084312:DDTBZ4_MANTA                  
+-->	Status: Error de conexion IP
+-->	Hora:No Actualizado
+-->	Errores Exportacion:No
+TERMINA DESCARGA:19/03/2018 8:43:12
+
+INICIA DESCARGA:19/03/2018 9:26:28
+
+INICIA DESCARGA:19/03/2018 9:27:27
+20180319092800:DDTBZ4_MANTA                  
+-->	No Hay Marcaciones
+-->	Hora:Actualizado:201803190927
+-->	Errores Exportacion:No
+TERMINA DESCARGA:19/03/2018 9:28:00

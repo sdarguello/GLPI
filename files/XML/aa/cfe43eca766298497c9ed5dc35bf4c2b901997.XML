@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>AGROCALIDAD</razonSocial>
+    <nombreComercial>AGENCIA ECUATORIANA DE ASEGURAMIENTO DE LA CALIDAD DEL AGRO</nombreComercial>
+    <ruc>1768105720001</ruc>
+    <claveAcceso>1910201701176810572000120320010000111620000000115</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>032</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000011162</secuencial>
+    <dirMatriz>AV. AMAZONAS S/N INTERSECCION AV. ELOY ALFARO DIAGONAL A LA ESTACION DE SERVICIOS PETROCOMERCIAL ED. MAGAP PISO 9</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>19/10/2017</fechaEmision>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>BUSTAMANTE &amp; BUSTAMANTE PATENTES Y MARCAS CIA. LTDA.</razonSocialComprador>
+    <identificacionComprador>1791432037001</identificacionComprador>
+    <direccionComprador>AV. PATRIA  E469 Y AV. AMAZONAS</direccionComprador>
+    <totalSinImpuestos>157.84</totalSinImpuestos>
+    <totalSubsidio>0.00</totalSubsidio>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>157.84</baseImponible>
+        <valor>18.93</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>176.77</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>176.77</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>225</codigoPrincipal>
+      <descripcion>DETERMINACIÓN DE NITRÓGENO TOTAL</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>15.020200</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>15.02</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>15.02</baseImponible>
+          <valor>1.80</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>230</codigoPrincipal>
+      <descripcion>DETERMINACIÓN DE SULFATOS</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>29.107500</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>29.11</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>29.11</baseImponible>
+          <valor>3.49</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>229</codigoPrincipal>
+      <descripcion>DETERMINACIÓN DE BORO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>13.280200</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>13.28</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>13.28</baseImponible>
+          <valor>1.59</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>226</codigoPrincipal>
+      <descripcion>DETERMINACIÓN DE NITRÓGENO NÍTRICO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>16.351300</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>16.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>16.35</baseImponible>
+          <valor>1.96</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>227</codigoPrincipal>
+      <descripcion>DETERMINACIÓN DE NITRÓGENO AMONIACAL</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>12.840000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.84</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>12.84</baseImponible>
+          <valor>1.54</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>235</codigoPrincipal>
+      <descripcion>DETERMINACIÓN DE METALES (K,CA, MG, FE, CU, ZN, MN, NA, MO, AL, CO)</descripcion>
+      <cantidad>7</cantidad>
+      <precioUnitario>10.177600</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>71.24</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>71.24</baseImponible>
+          <valor>8.55</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Teléfono">(02) 256-2680</campoAdicional>
+    <campoAdicional nombre="Email">registros_sesa@bustamante.com.ec</campoAdicional>
+    <campoAdicional nombre="numeroSolicitud">AGR-2017-000093961</campoAdicional>
+    <campoAdicional nombre="observacion">1 Muestra/ MICRORRIEGO PRODUCCION </campoAdicional>
+    <campoAdicional nombre="datosDeposito">Deposito: 284208</campoAdicional>
+  </infoAdicional>
+</factura>

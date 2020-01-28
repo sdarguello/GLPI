@@ -1,0 +1,77 @@
+EL EMPALME:
+
+Aretes EC001092255, EC001092254 utilizados por operador 1302691991
+
+---------------------------------
+
+Arete utilizado EC000954528 utlizado por operador 1310465388
+Aretes disponibles EC000954526-EC000954527, EC000954520-EC000954525
+
+
+--------------------------------
+
+Aretes utilizados EC001091401-EC001091411 por operador 0916285323,  
+Aretes disponibles EC001091412-EC001091414
+
+
+---------------------------------
+SALITRE:
+
+Arete utilizado EC000956672 por operador 0922499520, 
+Arete utilizado EC000956673 por operador 0924247638
+
+-------------------------------
+
+Aretes disponibles EC000738783,EC000738788 
+Aretes disponibles EC000956230-EC000956236
+Aretes disponibles EC000956237-EC000956240, EC000956242,EC000956243
+Aretes utilizados EC000956241 por operador 0911597029
+
+-------------------------------
+
+Arete disponible EC000956565 pero ya consta en la siguiente serie por eso le sale ya utilizado agregar una sola vez al ingresar el catastro
+Arete disponible EC000956560-EC000956573
+Aretes disponibles EC000956558,EC000956559
+
+
+--------------------
+Arete utilizado EC000956362 por operador 0910748219,
+Aretes disponibles EC000956363-EC000956375
+
+arete utilizado EC000842059 por operador 1003449632,
+Arete disponible EC000900103
+
+
+BALZAR----------------------
+
+Arete disponibles EC000953722-EC000953733 , EC000953753-EC000953834
+Arete utilizados EC000953734-EC000953752 por operador 0918930504
+
+Aretes disponibles EC000953601-EC000953721 solo indica en pdf cantidad 20
+
+Aretes disponibles EC000953835-EC000953896
+
+Aretes disponibles EC000953896-EC000953903
+
+
+
+TRIUNFO
+--------------------
+Aretes disponibles EC000955051-EC000955053,EC000955055-EC000955058
+Arete utilizado EC000955054 por operador 1204041980
+
+Aretes disponibles EC000955506-EC000955517
+Aretes utilizados EC000955518,EC000955519 por operador 0924707862
+
+Aretes utilizados EC000955520,EC000955521 por operador 0924707862
+
+Aretes utilizados EC000955522,EC000955527 por operador 0924707862
+
+Aretes utilizados EC000955528,EC000955529 por operador 0924707862
+Aretes disponibles EC000955530-EC000955564
+
+Arete utilizado EC000955204 por operador 0940319940
+
+Artes utilziados EC000955305-EC000955312 por operador 0904368511
+
+

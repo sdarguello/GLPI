@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>0708201901176818883000120340010000190980000000315</numeroAutorizacion>
+  <fechaAutorizacion>2019-08-07T23:02:45-05:00</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>AGENCIA DE REGULACIÓN Y CONTROL FITO Y ZOOSANITARIO</razonSocial>
+    <nombreComercial>AGENCIA DE REGULACIÓN Y CONTROL FITO Y ZOOSANITARIO</nombreComercial>
+    <ruc>1768188830001</ruc>
+    <claveAcceso>0708201901176818883000120340010000190980000000315</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>034</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000019098</secuencial>
+    <dirMatriz>AV. AMAZONAS S/N INTERSECCION AV. ELOY ALFARO DIAGONAL A LA ESTACION DE SERVICIOS PETROCOMERCIAL ED. MAGAP PISO 9</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>07/08/2019</fechaEmision>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>AGRIPAC S.A.</razonSocialComprador>
+    <identificacionComprador>0990006687001</identificacionComprador>
+    <direccionComprador>GENERAL CORDOVA 623 Y PADRE SOLANO</direccionComprador>
+    <totalSinImpuestos>240.44</totalSinImpuestos>
+    <totalSubsidio>0.00</totalSubsidio>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>240.44</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>240.44</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>240.44</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>377</codigoPrincipal>
+      <descripcion>VERIFICACION DE IMPORTACIONES AUTORIZADAS DE  IMPORTACIONES  DE PLAGUICIDAS Y AFINES DE USO AGRICOLA Y PRODUCTOS DE USO  VETERINARIO DE 0,1 GRAMO HASTA 100 KG.</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>10.485800</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.49</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>10.49</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>378</codigoPrincipal>
+      <descripcion>POR CADA KILOGRAMO  ADICIONAL</descripcion>
+      <cantidad>21900</cantidad>
+      <precioUnitario>0.010500</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>229.95</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>229.95</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Teléfono">(04) 256-0400</campoAdicional>
+    <campoAdicional nombre="Email">malonso@agripac.com.ec</campoAdicional>
+    <campoAdicional nombre="numeroSolicitud">16910136201900000572P</campoAdicional>
+    <campoAdicional nombre="observacion">16910136201900000572P  </campoAdicional>
+    <campoAdicional nombre="datosDeposito">Pago electrónico VUE.</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature434713">
+<ds:SignedInfo Id="Signature-SignedInfo1043542">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID509691" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature434713-SignedProperties758097">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>l2yaje8glbY+rl7lJJeN1bVVIlc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11006313">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5nVg+oWJherl6bSgf9mY84lfQDk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-397935" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kW+I8yYideIPdw8JimeN5DgYRsQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue881291">
+sMYuK3lBFDXoke9EcklpYnj8BorEEPkRXkaFRRL38c/P6ihLqYOUIYuV9CuOaQwSFPFCk1d1xjbX
+b7tbHUmAzN/WhR+53G0k4EI7/bUaL/SwrLis674WBXTsrCXg3LKCcrj0u/Gq56YA4FCqOuFUSU3D
+rZgsRWUg2aVBA8AQCFi+3/X3KXor7KAJZ24dCcHyCtLJ0PqB32U4r1n0Pp0gjep9PQB7A9ubmaHi
+/owQmVCAETTV2+60cTbEl/laLC4Zt1bUsSN0z1e0dkXbmWTyRcdiat+t2sgmy5M01BXB0WZGJkx2
+W61l+/Gx2Ff+6CKkP5Lhmu8EwEuuTEKjZCOLBw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11006313">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKDzCCB/egAwIBAgIEWls0TTANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE4MDIyODE0MjYwNVoXDTIwMDIyODE0NTYw
+NVowgbQxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE4MBEGA1UEBRMKMDAwMDI2NTIxMDAjBgNVBAMTHEFMQkEgVkVST05JQ0Eg
+U0VTTUUgWkFNQlJBTk8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDcPYwZNX9iFIvP
+peerv9YVln2I33C99g1g/XghJfops8/JdpmIX9zn2Y8TnOGSp73s2ZOJginOzg9NKlG9wnosoHJI
+MgKiN3vMO/QfZg9G0y1QLtnL3I3htrMCaA54ZaO/6Ah/zXvQ0oFQE2TrKb365iTJ+ODR8e7QUrBY
+hF1c87sIcH00Ml7VAstG/KelnBslrHMXZFpUDMfQ3jB/PZsRbRP8CB4KYZ+DaIm+30FaDkiKunnj
+OsNTz4v2zEjQJbyPH93WL41yn+/H1ydnBUwZv6JLCY+usU/+rT5EbEXzmgbCBHe+h/h6hnSPOaBs
+Urz6cPFt5njy2jxjU3wTZHxlAgMBAAGjggU4MIIFNDALBgNVHQ8EBAMCB4AwZwYDVR0gBGAwXjBc
+BgsrBgEEAYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRp
+Y2EtY2VydGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4G
+CCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2Vi
+L3N0YXR1cy9vY3NwMEMGCisGAQQBgqg7AwoENRMzQUdFTkNJQSBERSBSRUdVTEFDSU9OIFkgQ09O
+VFJPTCBGSVRPIFkgWk9PU0FOSVRBUklPMB0GCisGAQQBgqg7AwsEDxMNMTc2ODE4ODgzMDAwMTAa
+BgorBgEEAYKoOwMBBAwTCjA5MTUyOTM4ODAwHQYKKwYBBAGCqDsDAgQPEw1BTEJBIFZFUk9OSUNB
+MBUGCisGAQQBgqg7AwMEBxMFU0VTTUUwGAYKKwYBBAGCqDsDBAQKEwhaQU1CUkFOTzAbBgorBgEE
+AYKoOwMFBA0TC1JFQ0FVREFET1JBMCoGCisGAQQBgqg7AwcEHBMaQVZKVUFOIFRBTkFDQSBNQVJF
+TkdPIE4xMDEwGQYKKwYBBAGCqDsDCAQLEwkwNDIyODIwNzUwGQYKKwYBBAGCqDsDCQQLEwlHdWF5
+YXF1aWwwFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUt
+QVJDSElWTzAoBgNVHREEITAfgR1hbGJhLnNlc21lQGFncm9jYWxpZGFkLmdvYi5lYzCCAd8GA1Ud
+HwSCAdYwggHSMIIBzqCCAcqgggHGhoHVbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNS
+TDUyNyxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1F
+TlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1C
+QU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9u
+TGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNv
+bWIuY3JspIG1MIGyMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNV
+QURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVD
+SUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFE
+T1IxDzANBgNVBAMTBkNSTDUyNzArBgNVHRAEJDAigA8yMDE4MDIyODE0MjYwNVqBDzIwMjAwMjI4
+MTQ1NjA1WjAfBgNVHSMEGDAWgBQY+fD75jIcmWY5KsqLsml9SSe/zjAdBgNVHQ4EFgQUX/a2/FDU
+a0gNGzb5hK3gHv0rg+wwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIEsDANBgkq
+hkiG9w0BAQsFAAOCAgEARXgzX0K7nhse2dUKZO8449GmzD2N5EsdQTcwU5SjxhdwM3oJBus/24AQ
+sD15L+oyjxqyDjaKsuXf0TkPd8AE2GDctqkIWY/9STQLnpIy58slGDkE/m+AXY4AppsmBodA4V9+
+05oGihy1kYDVyJAbXcFjTVk7Xb/YJdBWyQbqhWFhXfTGZjUgQj2y0KwpLsWCQ2O9aUgQ7Gmu/w/Z
+2E4oUHDcf8Na1kHwcpXbQsC7jTO96rnC/koqqM0PUJsS0P8OjtbLvVm443H9Zvxjh1mxOJEfC/32
+AU6N4TPJ4ivw4CTCr6rcPwNYs5wAQ7eEffrdwPaEmn1AT/99ey6D8Gx8YFuhTJyJUiIYfyS+qYwH
+wO0y0IWObYOsIEa+JSo/UIANkhyqgH8hIKSWPpgQqLtI4+5/J3ltIJFe7EfbaG82oiInhevK8ola
+cKPHLjx8bSRJ8JWsJ19od4m12f/Znt2vii3SZ3AfUTF4lJKT+RCSukENk0U/IAtyn0UQCj+R+Cpk
+iOEzTtquOuVBR/xIbOIrtfdDcRdRv3rKlNSZKEscLWhNXSR2ALSl0Bsb6qketd6imUdpEmYRG+Ia
+s6grJcXi6/WnwwQfhM9CntLkfgWScdduYl2ZY2AUYeCBeWywPJdfaOIeMiap4Il93Fygshbhtw/3
+GjFmZVMgO6Zj5Q/TX+g=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+3D2MGTV/YhSLz6Xnq7/WFZZ9iN9wvfYNYP14ISX6KbPPyXaZiF/c59mPE5zhkqe97NmTiYIpzs4P
+TSpRvcJ6LKBySDICojd7zDv0H2YPRtMtUC7Zy9yN4bazAmgOeGWjv+gIf8170NKBUBNk6ym9+uYk
+yfjg0fHu0FKwWIRdXPO7CHB9NDJe1QLLRvynpZwbJaxzF2RaVAzH0N4wfz2bEW0T/AgeCmGfg2iJ
+vt9BWg5Iirp54zrDU8+L9sxI0CW8jx/d1i+Ncp/vx9cnZwVMGb+iSwmPrrFP/q0+RGxF85oGwgR3
+vof4eoZ0jzmgbFK8+nDxbeZ48to8Y1N8E2R8ZQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature434713-Object263413"><etsi:QualifyingProperties Target="#Signature434713"><etsi:SignedProperties Id="Signature434713-SignedProperties758097"><etsi:SignedSignatureProperties><etsi:SigningTime>2019-08-07T23:00:06-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>BVeLcMeNYUiXtmb7pgehYRb/9R0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1515926605</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-397935"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+</autorizacion>

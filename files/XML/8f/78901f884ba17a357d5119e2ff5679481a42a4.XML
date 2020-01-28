@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>AGROCALIDAD</razonSocial>
+    <nombreComercial>AGENCIA ECUATORIANA DE ASEGURAMIENTO DE LA CALIDAD DEL AGRO</nombreComercial>
+    <ruc>1768105720001</ruc>
+    <claveAcceso>0204201501176810572000120500010000004260000000517</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>050</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000426</secuencial>
+    <dirMatriz>AV. AMAZONAS S/N INTERSECCION AV. ELOY ALFARO DIAGONAL A LA ESTACION DE SERVICIOS PETROCOMERCIAL ED. MAGAP PISO 9</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>02/04/2015</fechaEmision>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>TROPICALFRUIT EXPORT S.A. </razonSocialComprador>
+    <identificacionComprador>0992451467001</identificacionComprador>
+    <totalSinImpuestos>4.5</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>4.5</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>4.5</importeTotal>
+    <moneda>DOLAR</moneda>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>17</codigoPrincipal>
+      <descripcion>CERTIFICADO FITOSANITARIO PARA EXPORTACIÓN DE MUSÁCEAS.</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>4.500</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.5</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>4.5</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">KM. 1.5 VIA A LA PUNTILLA EDF. SAMBORONDON BUSINESS CENTER TORRE B P1 OF 1091</campoAdicional>
+    <campoAdicional nombre="Teléfono">(04) 283-8701</campoAdicional>
+    <campoAdicional nombre="Email">gmera@tropicalfruitexport.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature908683">
+<ds:SignedInfo Id="Signature-SignedInfo879883">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID518555" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature908683-SignedProperties453866">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>mrdpwOV6XZ2RouiqVJN+EsqbFi4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1104468">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RHJKa5fuBhqXePfVkw9bRWOlVqA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-156355" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WJ8jdNgwkZCqyNODt2A/z7MX7PQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue579475">
+MnhXjvvm+gOTz/2USLAeZzFKG4vAVZht0kpX+DROIpd4FV4gHch/yOAdqwQN3sMZAFSwuxP32wky
+CYiPtTOA9wb0jjFNgPVuOY796GOWWgSWPkSGulM3wC9TC2lmmX9r3/1+oSDnVR/iXPoijoiUtT+n
+RvoU1IUGbI6C5T7PYGIF6FUyOswVfggOaiLn1xkK2fZIwuQ+m1vV3pSdfy+ab2cE1GCDElxVTXUe
+yAr5P+vx7pK3PB1Pc2cQjDtyUzVjxzk+i8AaPGReyDqUpFeDani2QqYfx60ws908KlN3nwBh2Gvm
+Nq8PMMIrpPKz4kKHU2usACrdQgSt5hlAVObpGQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1104468">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ6TCCB9GgAwIBAgIETkRP8TANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE1MDMyMDE0MDUwMFoXDTE2MDEyMTE2NTI0
+NFowgbYxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE6MBEGA1UEBRMKMDAwMDA5OTk1MzAlBgNVBAMTHllJR05JQSBDQVJPTElO
+QSBBUlJFQUdBIFpJQURFVDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALvBLy84Ej9A
+2MSNF/jfGdXHrlKB2B7iqPIF6p7L+gfhPxQ7nxIQKzjas+rLsGnWbs0MI/xHnVtyeDC+p+2EAJtL
+e2nU8aw9KeMrCJefDWqPVKIFT1QpCkt2AUQkyWTvOc2p8FIXa0y65oqkzATjvWEOz809kaJ4VlnR
+uAubtvp8iGUEFBG5rANT+giPACjhcI5a3BC5mPQ3vQSUPvCBUzO0AH+tHJx5Cp3eC8gSc/CwAduN
+PJw9T9Im0kfgYyLtbRZfo2Ur3kGAWl1Cdx6FfEiwZ1Hnkba4f0HT6bzLRL9XSpoccwShXtqX6bXK
+/p43kX/Q1ZZJ1v+0ki61i8NIqkMCAwEAAaOCBRAwggUMMIGRBggrBgEFBQcBAQSBhDCBgTA+Bggr
+BgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29j
+c3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcDAaBgorBgEEAYKoOwMBBAwTCjA5MjYzNDUyMjQwHwYKKwYBBAGCqDsDAgQREw9Z
+SUdOSUEgQ0FST0xJTkEwFwYKKwYBBAGCqDsDAwQJEwdBUlJFQUdBMBYGCisGAQQBgqg7AwQECBMG
+WklBREVUMBsGCisGAQQBgqg7AwUEDRMLUkVDQVVEQURPUkEwVwYKKwYBBAGCqDsDBgRJE0dBR0VO
+Q0lBIEVDVUFUT1JJQU5BIERFIEFTRUdVUkFNSUVOVE8gREUgTEEgQ0FMSURBRCBERUwgQUdSTyBB
+R1JPQ0FMSURBRDAlBgorBgEEAYKoOwMHBBcTFUFWIEpVQU4gVEFOQ0EgTUFSRU5HTzAZBgorBgEE
+AYKoOwMIBAsTCTA0MjI4MjA3NTAZBgorBgEEAYKoOwMJBAsTCUd1YXlhcXVpbDAXBgorBgEEAYKo
+OwMMBAkTB0VDVUFET1IwHQYKKwYBBAGCqDsDCwQPEw0xNzY4MTA1NzIwMDAxMFcGCisGAQQBgqg7
+AwoESRNHQUdFTkNJQSBFQ1VBVE9SSUFOQSBERSBBU0VHVVJBTUlFTlRPIERFIExBIENBTElEQUQg
+REVMIEFHUk8gQUdST0NBTElEQUQwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCwG
+A1UdEQQlMCOBIXlpZ25pYS5hcnJlYWdhQGFncm9jYWxpZGFkLmdvYi5lYzCCAd8GA1UdHwSCAdYw
+ggHSMIIBzqCCAcqgggHGhoHVbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDIxMyxj
+bj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFE
+JTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUy
+MENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9i
+YXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3Js
+pIG1MIGyMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3
+MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEO
+MAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxDzAN
+BgNVBAMTBkNSTDIxMzALBgNVHQ8EBAMCBSAwHwYDVR0jBBgwFoAUGPnw++YyHJlmOSrKi7JpfUkn
+v84wHQYDVR0OBBYEFDKJ5mZvSTeMo/e49288Ahi7qfPGMAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EA
+BAwwChsEVjguMQMCBBAwDQYJKoZIhvcNAQELBQADggIBAFvm7b6wvAA4QpEi/tXnrpXr5EjdHY8e
+xNT0Mbvg8IBccNw0kPmTTl542Ar6IFQcoBKAs+32QNYb9qx3d/b0T77p2FgxKaBD2XWRFYOhaV9M
+mCHUzFn5GkNKoJ2Ws8fst4VIALNsG6mJzactn9CvTGAM2xT8j+yBI7dtfClAO6AZ8HSIrrfC9qE0
+bgFxbRdY/+kymuvdQIaFlCOREm+rs/oe9z0XcTISUweZWWrKAhAisNN/pfNBQodZM6WPPZ0FxnvM
+tsv+zoxe5M2DAQEFpyUDnIFUT7OfZjQYN0949MU8IRmCQKbUVkvjfalmYWF6dJzGwFG+Y68thce8
+OMJ8krAhzXIfCRtT4zVXxCwKj3YlzAvozht++TaJ+UFaWrR7AHeR10vd9KR4EOccLBCQprxoR74o
+RgSZcvSPRMODuSrav9qdTy+IGQrQ8eOjakXpfVwF5vSirsa21hCpaPxwqyHDjYD8DC2lbGgGFHFe
+2MywJTFijCZjlFaXo+f/98z5wPJmU7mivzGy3Su78n5S0PPAMciXcBBi6pjTYCrw+auLoWUdLr7t
+sBn7nh1liOnStfzoLVXnUR/ekgOzrzH68ey/CwTPVtMoouLbjOz7lLt/fre7zMgRZ3PlBScsUR5X
+27sFYmybMLcRyQrsYl70S1SmhARsZMRtInHeSVhuiDY4
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+u8EvLzgSP0DYxI0X+N8Z1ceuUoHYHuKo8gXqnsv6B+E/FDufEhArONqz6suwadZuzQwj/EedW3J4
+ML6n7YQAm0t7adTxrD0p4ysIl58Nao9UogVPVCkKS3YBRCTJZO85zanwUhdrTLrmiqTMBOO9YQ7P
+zT2RonhWWdG4C5u2+nyIZQQUEbmsA1P6CI8AKOFwjlrcELmY9De9BJQ+8IFTM7QAf60cnHkKnd4L
+yBJz8LAB2408nD1P0ibSR+BjIu1tFl+jZSveQYBaXUJ3HoV8SLBnUeeRtrh/QdPpvMtEv1dKmhxz
+BKFe2pfptcr+njeRf9DVlknW/7SSLrWLw0iqQw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature908683-Object195290"><etsi:QualifyingProperties Target="#Signature908683"><etsi:SignedProperties Id="Signature908683-SignedProperties453866"><etsi:SignedSignatureProperties><etsi:SigningTime>2015-04-02T13:07:47-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>YGX37aywg7b45N5N4KvfnoPt9Ms=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1313099761</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-156355"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
